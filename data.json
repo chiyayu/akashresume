@@ -1,0 +1,46 @@
+{
+	"details": {
+		"image": "neymar.jpg",
+		"name": "akki",
+		"phoneno": "+91-9876543210",
+		"email": "kappaakash@gmail.com",
+		"Address": "vizag"
+	},
+	"career": {
+		"head": "career objective",
+		"info": "im the only royal empire in the world"
+	},
+	"education": [{
+			"qualification": "B.Tech",
+			"Institute": "MIC college",
+			"year": "2016-2020",
+			"percentage": "89%"
+
+		},
+		{
+			"qualification": "Intermediate",
+			"Institute": "IIT Institute",
+			"year": "2013-2015",
+			"percentage": "97%"
+		},
+		{
+			"qualification": "SSC",
+			"Institute": "Sri chaitanya",
+			"year": "2013-2014",
+			"percentage": "97%"
+		}
+	],
+	"skills": [{
+			"tittle": "programming language",
+			"info": ["c,c++,python,java"]
+		},
+		{
+			"tittle": "DataBases",
+			"info": ["oracle,sql,mysql"]
+		},
+		{
+			"tittle": "programming language",
+			"info": ["windows,dos,linux"]
+		}
+	]
+}
